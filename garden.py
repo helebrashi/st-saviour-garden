@@ -6,7 +6,7 @@ if __name__ == '__main__':
     # print('🌷', end='') 
 
     for row in range(11):
-        for col in range(11):
+        for col in range(11):  
             print("🌼", end=" ")
         print('')
 print("\n" + "="*30 + "\n")
@@ -62,4 +62,3 @@ for row in range(11):
             print("🌷", end=" ")
         else:
             print("🌼", end=" ")
-    print()
