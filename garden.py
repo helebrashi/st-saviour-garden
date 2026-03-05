@@ -62,3 +62,4 @@ for row in range(11):
             print("🌷", end=" ")
         else:
             print("🌼", end=" ")
+    print ()
